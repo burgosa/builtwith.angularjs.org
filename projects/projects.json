@@ -1,82 +1,77 @@
 {
   "featured": "YouTube on PS3",
-  "projects": [
-  {
-    "name": "APWGL",
-    "thumb": "apwgl/thumb.png",
-    "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
-    "url": "http://wonglok.github.io/ARTPOP/index.html#/3DMix",
-    "submitter": "wonglok",
-    "submissionDate": "2014-04-20",
-    "tags": [
-      "ARTPOP",
-      "WebGL",
-      "CustomShader",
-      "MFAnimatedGif",
-      "perfmatters",
-      "$templateCache",
-      "Inline Web Worker",
-      "Dat.GUI",
-      "NProgress",
-      "DI"
-    ]
-  },
-  {
-    "name": "DBFreebies",
-    "thumb": "dbfreebies/thumb.png",
-    "desc": "A place to download the best freebies design resources from Dribbble and Behance.",
-    "url": "http://dbfreebies.co",
-    "submitter": "winstef",
-    "submissionDate": "2014-03-10",
-    "tags": [
-      "Production",
-      "Listing",
-      "Bootstrap",
-      "Local Storage",
-      "jQuery",
-      "JSON",
-      "API"
-    ]
-  },
-  {
-    "name": "buzzlike",
-    "thumb": "buzzlike/thumb.png", 
-    "desc": "Digital content interaction tool",
-    "url": "http://buzzlike.pro",
-    "info": "http://buzzlike.pro/#/about/project",
-    "submitter": "buzzlike",
-    "submissionDate": "2014-03-25",
-    "tags": [
-      "Production",
-      "Social media", "Delayed posting", "Content management", "Community management", "Content interaction",
-      "CSS3D", "Local Storage", "CSS Filters", "File Api", "Coffeescript", "Jade", "Stylus",
-      "jQuery"
-    ]
-  },
-  {
-    "name": "hya.io",
-    "thumb": "hya.io/thumb.png",
-    "desc": "Plugin-based, HTML5 Digital Workstation for the web, with MIDI and public patches.",
-    "url": "http://hya.io",
-    "info": "http://blog.hya.io",
-    "submitter": "janesconference",
-    "submissionDate": "2014-02-25",
-    "tags": [
-      "Production",
-      "DAW",
-      "Audio",
-      "Music",
-      "Local Storage",
-      "Audio Api",
-      "Web Audio API",
-      "jspm",
-      "Web MIDI Api",
-      "jQuery",
-      "Bootstrap",
-      "jsPlumb"
-     ]
-    },
-    {
+  "projects": [{
+      "name": "APWGL",
+      "thumb": "apwgl/thumb.png",
+      "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
+      "url": "http://wonglok.github.io/ARTPOP/index.html#/3DMix",
+      "submitter": "wonglok",
+      "submissionDate": "2014-04-20",
+      "tags": [
+        "ARTPOP",
+        "WebGL",
+        "CustomShader",
+        "MFAnimatedGif",
+        "perfmatters",
+        "$templateCache",
+        "Inline Web Worker",
+        "Dat.GUI",
+        "NProgress",
+        "DI"
+      ]
+    }, {
+      "name": "DBFreebies",
+      "thumb": "dbfreebies/thumb.png",
+      "desc": "A place to download the best freebies design resources from Dribbble and Behance.",
+      "url": "http://dbfreebies.co",
+      "submitter": "winstef",
+      "submissionDate": "2014-03-10",
+      "tags": [
+        "Production",
+        "Listing",
+        "Bootstrap",
+        "Local Storage",
+        "jQuery",
+        "JSON",
+        "API"
+      ]
+    }, {
+      "name": "buzzlike",
+      "thumb": "buzzlike/thumb.png",
+      "desc": "Digital content interaction tool",
+      "url": "http://buzzlike.pro",
+      "info": "http://buzzlike.pro/#/about/project",
+      "submitter": "buzzlike",
+      "submissionDate": "2014-03-25",
+      "tags": [
+        "Production",
+        "Social media", "Delayed posting", "Content management", "Community management", "Content interaction",
+        "CSS3D", "Local Storage", "CSS Filters", "File Api", "Coffeescript", "Jade", "Stylus",
+        "jQuery"
+      ]
+    }, {
+      "name": "hya.io",
+      "thumb": "hya.io/thumb.png",
+      "desc": "Plugin-based, HTML5 Digital Workstation for the web, with MIDI and public patches.",
+      "url": "http://hya.io",
+      "info": "http://blog.hya.io",
+      "submitter": "janesconference",
+      "submissionDate": "2014-02-25",
+      "tags": [
+        "Production",
+        "DAW",
+        "Audio",
+        "Music",
+        "Local Storage",
+        "Audio Api",
+        "Web Audio API",
+        "jspm",
+        "Web MIDI Api",
+        "jQuery",
+        "Bootstrap",
+        "jsPlumb"
+      ]
+    }, {
       "name": "Redbeacon Experts",
       "thumb": "redbeacon-experts/thumb.png",
       "desc": "A Q&A site for home improvement questions. Get free home advice from Redbeacon experts within 24 hours.",
@@ -92,8 +87,7 @@
         "Home Improvement",
         "Django"
       ]
-    },
-    {
+    }, {
       "name": "VEVO",
       "thumb": "vevo/thumb.png",
       "desc": "VEVO is the world’s leading all-premium music video and entertainment platform with over 5 billion monthly views globally.",
@@ -104,8 +98,7 @@
         "Production",
         "Entertainment"
       ]
-    },
-    {
+    }, {
       "name": "Fitblok",
       "thumb": "fitblok/thumb.png",
       "desc": "Fitblok is a One-Page Web app, which provides users with a gym-like experience and enables fitness trainers to develop their own following.",
@@ -116,8 +109,7 @@
       "tags": [
         "Production", "Productivity", "jQuery", "3rd Party Plugins Itegration"
       ]
-    },
-    {
+    }, {
       "name": "Shortkeys for Chrome",
       "thumb": "shortkeys-chrome/thumb.png",
       "desc": "A Chrome extension for custom keyboard shortcuts. Angular powers the admin/options UI",
@@ -132,8 +124,7 @@
         "Local Storage",
         "JSON"
       ]
-    },
-    {
+    }, {
       "name": "Memory Game",
       "thumb": "memory-game/thumb.png",
       "desc": "Simple implementation of the memory game using AngularJS and CSS transitions.",
@@ -149,8 +140,7 @@
         "Open Source",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "PhoneCat",
       "thumb": "phonecat/thumb.png",
       "desc": "Android phone and tablet gallery — the AngularJS tutorial app. Learn how to build apps with AngularJS from scratch by following this tutorial!",
@@ -166,8 +156,7 @@
         "Open Source",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "wReader",
       "thumb": "wreader/thumb.png",
       "desc": "Fancy HTML5 RSS Reader.",
@@ -183,8 +172,7 @@
         "Open Source",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "PeepCode Tunes",
       "thumb": "peepcode-tunes/thumb.png",
       "desc": "Simple HTML5 music player. Ported from Backbone.js to AngularJS.",
@@ -198,8 +186,7 @@
         "Open Source",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "docs.angularjs.org",
       "thumb": "angularjs-docs/thumb.png",
       "desc": "Docs viewer app for AngularJS apis.",
@@ -214,8 +201,7 @@
         "Open Source",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "www.jobs.cz",
       "thumb": "jobs-cz/thumb.png",
       "desc": "Standardized college admission testing site for Universities in Czech Republic.",
@@ -228,8 +214,7 @@
         "jQuery",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "PubNub Chat",
       "thumb": "pubnub-chat/thumb.png",
       "desc": "Blazing fast real-time messaging using PubNub and AngularJS.",
@@ -244,8 +229,7 @@
         "Bootstrap",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "DoubleClick",
       "thumb": "doubleclick/thumb.png",
       "desc": "DoubleClick Digital Marketing Manager and other DoubleClick Digital Marketing Platform applications are used by thousands of marketers and agencies worldwide.",
@@ -259,8 +243,7 @@
         "jQuery",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "Sliding puzzle",
       "thumb": "sliding-puzzle/thumb.png",
       "desc": "Simple sliding puzzle game",
@@ -269,14 +252,13 @@
       "submitter": "pdanis",
       "submissionDate": "2012-06-14",
       "tags": [
-          "Demo",
-          "Game",
-          "No jQuery",
-          "Open Source",
-          "Tests Included"
+        "Demo",
+        "Game",
+        "No jQuery",
+        "Open Source",
+        "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "Balance Projector",
       "thumb": "balance-projector/thumb.png",
       "desc": "Balance Projector can provide quick insights into your immediate financial future. The real time interface updates on every change and makes somewhat abstract numbers very tangible.",
@@ -291,8 +273,7 @@
         "No jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "Cryptography Project",
       "thumb": "cryptography-project/thumb.png",
       "desc": "Encrypt and decrypt any text right in your browser. You can also generate random key phrases from the list of 39,000 English words.",
@@ -307,8 +288,7 @@
         "No jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "Project Time Recorder",
       "thumb": "ptr/thumb.png",
       "desc": "Time sheet for recoring working hours and time allocation to projects.",
@@ -323,8 +303,7 @@
         "jQuery",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "Search",
       "thumb": "twitter-search/thumb.png",
       "desc": "Search for recent tweets for any topic. Filter results by tweet, author, etc.",
@@ -339,8 +318,7 @@
         "jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "CafeTownsend",
       "thumb": "cafetownsend/thumb.png",
       "desc": "CafeTownsend with AngularJS IoC",
@@ -355,8 +333,7 @@
         "jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "Posse",
       "thumb": "posse/thumb.png",
       "desc": "Posse lets you build a magical street, filled with all your favorite, real-world places, and share it with your friends to create a town. Not only will you be sharing your super amazing taste but you’ll also be discovering new awesome places and supporting a community of great retailers at the same time.",
@@ -370,8 +347,7 @@
         "Play Framework",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "GitHub Contributors",
       "thumb": "github-contributors/thumb.png",
       "desc": "An application to browse through the contributors of GitHub projects. Ported from YUI 3.5 to AngularJS.",
@@ -385,8 +361,7 @@
         "Open Source",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "dustr",
       "thumb": "dustr/thumb.png",
       "desc": "Compile dust.js templates right in your browser. Uses linkedin's dustjs.",
@@ -400,8 +375,7 @@
         "jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "tetractis-olympics",
       "thumb": "tetractis-olympics/thumb.png",
       "desc": "Olympics 2012 real time live data",
@@ -412,8 +386,7 @@
         "Production",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "ERMAHGERD Translator",
       "thumb": "ermahgerd/thumb.png",
       "desc": "Translate text to ERMAHGERD",
@@ -425,8 +398,7 @@
         "Entertainment",
         "No jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Fluid",
       "thumb": "fluid/thumb.png",
       "desc": "Portfolio interface with combined visualization and navigation. If you want a look at the source, just contact me.",
@@ -439,8 +411,7 @@
         "jQuery",
         "Rails"
       ]
-    },
-    {
+    }, {
       "name": "SCAmp",
       "thumb": "scamp/thumb.png",
       "desc": "SoundCloud Playlist Manager",
@@ -455,8 +426,7 @@
         "jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "Awesome New Tab Page",
       "thumb": "awesome-new-tab-page/thumb.png",
       "desc": "An extensible new tab page for Google Chrome. Awesome, like you.",
@@ -473,8 +443,7 @@
         "jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "YouTube on PS3",
       "thumb": "yt-ps3/thumb.png",
       "desc": "The YouTube application for Sony's PlayStation 3.",
@@ -491,8 +460,7 @@
         "Google Closure",
         "No jQuery"
       ]
-    },
-    {
+    }, {
       "name": "ONS FloorPlan",
       "thumb": "ons-floorplan/thumb.png",
       "desc": "The official app for ONS 2012, one of the world's leading meeting places for the global energy industry.",
@@ -505,8 +473,7 @@
         "Business",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Goodfilms Mobile Site",
       "thumb": "goodfilms-mobile/thumb.png",
       "desc": "The mobile-optimised interface for Goodfilms - a new, social movie review site",
@@ -523,8 +490,7 @@
         "No jQuery",
         "Mobile"
       ]
-    },
-    {
+    }, {
       "name": "Lokaligo",
       "thumb": "lokaligo/thumb.png",
       "desc": "Online localization and translation management platform.",
@@ -538,8 +504,7 @@
         "No jQuery",
         "Localization"
       ]
-    },
-    {
+    }, {
       "name": "Provok.in",
       "thumb": "provok-in/thumb.png",
       "desc": "Prove your point. State an affirmation, back it up with evidence, unveil the truth.",
@@ -554,8 +519,7 @@
         "Bootstrap",
         "No jQuery"
       ]
-    },
-    {
+    }, {
       "name": "STOIC",
       "thumb": "stoic/thumb.png",
       "desc": "STOIC turns your Google Spreadsheets into complete applications, with a cloud-class database in the back-end, and a user interface for mobile devices.",
@@ -571,8 +535,7 @@
         "Google Apps",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "angular-google-maps",
       "thumb": "angular-google-maps/thumb.png",
       "desc": "Google Maps inside your angular.js application",
@@ -586,8 +549,7 @@
         "Google Maps",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "CPresent",
       "thumb": "cpresent/thumb.png",
       "desc": "A simplified, web-based Church presentation system",
@@ -604,8 +566,7 @@
         "CSS3",
         "bootstrap-js"
       ]
-    },
-    {
+    }, {
       "name": "Bingo Card Club",
       "thumb": "bingo-card-club/printable-bingo-card-creator.png",
       "desc": "The best printable bingo card creator. Generate randomized bingo cards! Try the Make and Print dashboard, created using AngularJS.",
@@ -621,8 +582,7 @@
         "Rails",
         "Component"
       ]
-    },
-    {
+    }, {
       "name": "Kodigon",
       "thumb": "kodigon/thumb.png",
       "desc": "Kodigon is a web application which encode and decode (if possible) string in many algorithm formats lke Base64, MD5, SHA1, etc. It's an example of AngularJS use.",
@@ -640,8 +600,7 @@
         "No jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "eTuneBook",
       "thumb": "etunebook/thumb.png",
       "desc": "Abc Tunebook Manager",
@@ -660,8 +619,7 @@
         "jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "FolderChute",
       "thumb": "folderchute/FolderChute.png",
       "desc": "My cloud to your... in seconds",
@@ -680,8 +638,7 @@
         "Mover.io",
         "Productivity"
       ]
-    },
-    {
+    }, {
       "name": "Employee Training Tracker",
       "thumb": "employee-training-tracker/thumb.png",
       "desc": "Tracking employee training records",
@@ -698,8 +655,7 @@
         "Ruby on Rails",
         "Ruby"
       ]
-    },
-    {
+    }, {
       "name": "NameOkay",
       "thumb": "nameokay/thumb.png",
       "desc": "Domain Name Generator",
@@ -716,8 +672,7 @@
         "Rails",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Semantic Body Browser",
       "thumb": "semantic-body-browser/thumb.png",
       "desc": "A tool for graphically exploring an organism's body. The app allows a user to browse through the human and murine kidney and trace the developmental stages of the nephron. The vector graphics are generated with Raphael.",
@@ -738,8 +693,7 @@
         "jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "Plunker",
       "thumb": "plunker/thumb.png",
       "desc": "The next generation of lightweight collaborative online editing.",
@@ -753,8 +707,7 @@
         "Productivity",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "Trailers for Netflix",
       "thumb": "trailers-for-netflix/thumb.png",
       "desc": "Trailers for Movies in Netflix Instant Streaming",
@@ -773,8 +726,7 @@
         "Trailers",
         "Netflix"
       ]
-    },
-    {
+    }, {
       "name": "yap.TV Facebook Application",
       "thumb": "yapTV-facebook/thumb.png",
       "desc": "Social TV Guide for Facebook",
@@ -787,8 +739,7 @@
         "Entertainment",
         "Local Storage"
       ]
-    },
-    {
+    }, {
       "name": "grubsmart",
       "thumb": "grubsmart/thumb.png",
       "desc": "Restaurant Deals sans coupons. Grubsmart is an online resource for great restaurant deals",
@@ -807,8 +758,7 @@
         "Bootstrap",
         "MongoDB"
       ]
-    },
-    {
+    }, {
       "name": "everymote",
       "thumb": "everymote/EM_angular.png",
       "desc": "A remote for internet of things (IoT) and web of things.",
@@ -827,8 +777,7 @@
         "Socket.io",
         "No jQuery"
       ]
-    },
-    {
+    }, {
       "name": "TakeTracker",
       "thumb": "taketracker/thumb.png",
       "desc": "Manage and share all your media-oriented projects.",
@@ -846,8 +795,7 @@
         "jQuery",
         "Bootstrap"
       ]
-    },
-    {
+    }, {
       "name": "MS Word Character to ASCII Tool",
       "thumb": "mswordcharconvertor/thumb.png",
       "desc": "Paste your MS Word text and the word character converter will replace word characters with ASCII characters.",
@@ -860,8 +808,7 @@
         "Productivity",
         "Utility"
       ]
-    },
-    {
+    }, {
       "name": "Kontaktkarte",
       "thumb": "kontaktkarte/thumb.png",
       "desc": "Kontaktkarte is your central repository for contacts from social networks and real life.",
@@ -878,8 +825,7 @@
         "CSS3",
         "LESS"
       ]
-    },
-    {
+    }, {
       "name": "socialblood.org",
       "thumb": "socialblood/thumb.png",
       "desc": "A simple and powerful way to connect with blood donors in your community.",
@@ -896,8 +842,7 @@
         "Google Maps",
         "Django"
       ]
-    },
-    {
+    }, {
       "name": "Jobvite Hire",
       "thumb": "jobvite/thumb.png",
       "desc": "Social recruiting and applicant tracking tool.",
@@ -914,8 +859,7 @@
         "jQueryUI",
         "AngularUI"
       ]
-    },
-    {
+    }, {
       "name": "WhichAirline",
       "thumb": "whichairline/thumb.png",
       "desc": "WhichAirline.com searches more than 100.000 routes to present the best available low-cost alternatives. The website helps user visualise flight duration and stopovers, and find the flights that best suit their time and budget. WhichAirline.com is a free service.",
@@ -931,8 +875,7 @@
         "CSS3",
         "HTML5"
       ]
-    },
-    {
+    }, {
       "name": "goutec",
       "thumb": "goutec/thumb.png",
       "desc": "e-shop site (Demo version) ",
@@ -951,8 +894,7 @@
         "PHP",
         "Rest"
       ]
-    },
-    {
+    }, {
       "name": "roadrat",
       "thumb": "roadrat/thumb.png",
       "desc": "Road Rash Driving Incidence Recording",
@@ -972,15 +914,14 @@
         "Bootstrap",
         "MongoDB"
       ]
-    },
-    {
+    }, {
       "name": "nbawowy",
       "thumb": "nba-wowy/thumb.png",
       "desc": "Find statistics of your favorite team with any arbitrary combination of players on or off the court.",
       "url": "http://nbawowy.com",
-      "info":"http://www.d3coder.com/thecity/2013/01/04/introducing-nba-wowy/",
-      "submitter":"EvanZ",
-      "submissionDate":"2013-01-05",
+      "info": "http://www.d3coder.com/thecity/2013/01/04/introducing-nba-wowy/",
+      "submitter": "EvanZ",
+      "submissionDate": "2013-01-05",
       "tags": [
         "Production",
         "Entertainment",
@@ -989,8 +930,7 @@
         "Node",
         "Bootstrap"
       ]
-    },
-    {
+    }, {
       "name": "Slovari",
       "thumb": "slovari/thumb.png",
       "desc": "Explanatory Dictionary of the Russian Language.",
@@ -1006,8 +946,7 @@
         "Education",
         "HTML5"
       ]
-    },
-    {
+    }, {
       "name": "eShell",
       "thumb": "eshell/thumb.png",
       "desc": "An eLearning player - a building block for eLearning courses created with authoring tools",
@@ -1024,17 +963,16 @@
         "jQueryUI",
         "jPlayer"
       ]
-    },
-    {
-      "name":"Contact Path",
-      "thumb":"contact-path/thumb.png",
-      "desc":"A simple contact management application build using AngularJS",
-      "url":"http://contactpath.liberlabs.com",
-      "info":"https://bitbucket.org/adhilnv/contact-path",
-      "src":"https://bitbucket.org/adhilnv/contact-path/src",
-      "submitter":"adhilnv",
-      "submissionDate":"2013-01-12",
-      "tags":[
+    }, {
+      "name": "Contact Path",
+      "thumb": "contact-path/thumb.png",
+      "desc": "A simple contact management application build using AngularJS",
+      "url": "http://contactpath.liberlabs.com",
+      "info": "https://bitbucket.org/adhilnv/contact-path",
+      "src": "https://bitbucket.org/adhilnv/contact-path/src",
+      "submitter": "adhilnv",
+      "submissionDate": "2013-01-12",
+      "tags": [
         "Demo",
         "CRUD",
         "Animations",
@@ -1042,8 +980,7 @@
         "No jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "Tuft & Needle",
       "thumb": "tuftandneedle/thumb.jpg",
       "desc": "Sleep on an honestly crafted bed at a fair price without gimmicks.",
@@ -1056,8 +993,7 @@
         "Ecommerce",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "HyperStage (هايبرستيج)",
       "thumb": "hyperstage/thumb.png",
       "desc": "HyperStage: Arabic Podcasting Network",
@@ -1071,8 +1007,7 @@
         "Django",
         "Yeoman"
       ]
-    },
-    {
+    }, {
       "name": "Tag Cloud Search + Translate",
       "thumb": "tagcloud/thumb.png",
       "desc": "Tag Cloud is an extension for Chrome that creates, for any web page displayed in your Chrome browser, a Tag Cloud with the 100 most often used words, providing a quick synthesis of every page you browse, in less than a second, and with only one click.",
@@ -1091,8 +1026,7 @@
         "Open Source",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "Wundergram",
       "thumb": "wundergram/thumb.png",
       "desc": "Helping early childhood education work smarter through better parent communication and streamlined operations. Powered by moibile and the cloud.",
@@ -1113,8 +1047,7 @@
         "Jade",
         "WebAPI"
       ]
-    },
-    {
+    }, {
       "name": "Registre Foncier",
       "thumb": "registre-foncier/thumb.png",
       "desc": "Ultra fast search of the public data from the Land Registry of the Canton of Geneva",
@@ -1128,8 +1061,7 @@
         "jQuery",
         "Ruby on Rails"
       ]
-    },
-    {
+    }, {
       "name": "Hatjitsu",
       "thumb": "hatjitsu/thumb.png",
       "desc": "Distributed scrum planning poker for estimating agile projects.",
@@ -1145,8 +1077,7 @@
         "Web Sockets",
         "Agile"
       ]
-    },
-    {
+    }, {
       "name": "Whitetruffle Candidate Profile",
       "thumb": "whitetruffle/thumb.png",
       "desc": "Whitetruffle matches talent with startups. The redesigned candidate profile uses AngularJS to make the code as clean as the design.",
@@ -1162,8 +1093,7 @@
         "Bootstrap",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Color Game",
       "thumb": "color-game/thumb.png",
       "desc": "Stroop Effect Color Match Game build with AngularJS",
@@ -1178,8 +1108,7 @@
         "Open Source",
         "Bootstrap"
       ]
-    },
-    {
+    }, {
       "name": "angular_sudoku",
       "thumb": "angular_sudoku/thumb.png",
       "desc": "Sudoku game built with angular.js",
@@ -1193,8 +1122,7 @@
         "CSS3",
         "Bootstrap"
       ]
-    },
-    {
+    }, {
       "name": "hawtio",
       "thumb": "hawtio/thumb.png",
       "desc": "An open source plugin based console for managing your Java stuff (e.g. Apache Camel, Apache ActiveMQ, JMX, OSGi and Fuse Fabric). Its a hawt console to help you stay cool!",
@@ -1215,8 +1143,7 @@
         "jolokia",
         "JMX"
       ]
-    },
-    {
+    }, {
       "name": "Fusteeno",
       "thumb": "fusteeno/thumb.png",
       "desc": "Send documents, images and any files online by your favorite cloud service.",
@@ -1233,8 +1160,7 @@
         "jQuery",
         "HTML5"
       ]
-    },
-    {
+    }, {
       "name": "Washington DC Metro NextBus",
       "thumb": "nextbus/thumb.png",
       "desc": "NextBus allows when the next bus will arrive at their stop. This application is mobile and desktop friendly",
@@ -1247,8 +1173,7 @@
         "Productivity",
         "BootStrap"
       ]
-    },
-    {
+    }, {
       "name": "Toogles",
       "thumb": "toogles/thumb.png",
       "desc": "A super fast, minimal alternative YouTube interface.",
@@ -1263,8 +1188,7 @@
         "YouTube",
         "No jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Metawidget",
       "thumb": "metawidget/thumb.png",
       "desc": "A smart User Interface widget that populates itself, at runtime, with UI components to match the properties of your business objects.",
@@ -1281,8 +1205,7 @@
         "User Interface",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "Antique Metronome",
       "thumb": "metronome/thumb.png",
       "desc": "Functional antique metronome skeuomorph, responsive design, AngularJS, CSS transitions.",
@@ -1300,8 +1223,7 @@
         "jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "Topoi",
       "thumb": "topoi/thumb.png",
       "desc": "An AngularJS, Bootstrap and Kinvey sandbox",
@@ -1316,8 +1238,7 @@
         "RESTful",
         "UI Bootstrap"
       ]
-    },
-    {
+    }, {
       "name": "Reddit Reader",
       "thumb": "reddit-reader/thumb.png",
       "desc": "Just A Better Reddit Client",
@@ -1332,8 +1253,7 @@
         "Open Source",
         "Entertainment"
       ]
-    },
-    {
+    }, {
       "name": "HackyNote",
       "thumb": "HackyNote/thumb.png",
       "desc": "A presentation editor and preview based on markdown. Made for hackers",
@@ -1349,8 +1269,7 @@
         "Open Source",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "Debuggex",
       "thumb": "debuggex/thumb.png",
       "desc": "A visual regular expression tester",
@@ -1365,8 +1284,7 @@
         "SVG",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Search for drugs",
       "thumb": "drugsearch-android/thumb.jpg",
       "desc": "This mobile app helps to check quickly the availability and price of drugs in pharmacies of Ekaterinburg and others cities of Sverdlovsk Region (Russia)",
@@ -1380,8 +1298,7 @@
         "Phonegap",
         "no jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Super Muni",
       "thumb": "supermuni/supermuni.png",
       "desc": "Real time view of sf-muni vehicles using AngularJS",
@@ -1396,8 +1313,7 @@
         "Animations", "Heavy 3rd party API Integration",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "#Untamed.",
       "thumb": "untamed-a-digital-photo-installation/thumb.png",
       "desc": "#Untamed. A digital photo installation. Inspired by the new Mercedes-Benz CLA. April 2013 live in Paris.",
@@ -1409,8 +1325,7 @@
         "Entertainment",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "HTML5 Canvas Gradient Creator",
       "thumb": "html5-canvas-gradient-creator/thumb.png",
       "desc": "GUI for point-and-click creation of HTML5 canvas gradients that generates the gradient HTML and JS for you.",
@@ -1428,8 +1343,7 @@
         "jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "CropUp",
       "thumb": "cropup/thumb.png",
       "desc": "CropUp is the simpler way to sell what you make. The social commerce platform removes the headache of configuring complicated, expensive storefronts and eliminates the noise and competition of marketplaces.",
@@ -1444,8 +1358,7 @@
         "Local Storage",
         "Coffeescript"
       ]
-    },
-    {
+    }, {
       "name": "24me",
       "thumb": "24me/thumb.png",
       "desc": "24me is the personal assistant that helps you automatically take care of things - pay your bills, greet your friends and outsource errands for you!",
@@ -1458,15 +1371,14 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage", 
+        "Local Storage",
         "Bootstrap",
         "Node.js",
         "BigCouch",
         "Redis",
         "Startups"
       ]
-    },
-    {
+    }, {
       "name": "Louis Cruises",
       "thumb": "louis-cruises/thumb.png",
       "desc": "Company website for Louis Cruises",
@@ -1479,8 +1391,7 @@
         "Production",
         "JSON"
       ]
-    },
-    {
+    }, {
       "name": "Opentaste",
       "thumb": "opentaste/thumb.png",
       "desc": "The social network to find and share cooking recipes",
@@ -1497,8 +1408,7 @@
         "MongoDB",
         "API"
       ]
-    },
-    {
+    }, {
       "name": "font dragr",
       "thumb": "fontdragr/thumb.jpg",
       "desc": "A revolutionary way to test custom fonts in the browser. No coding, no uploading, just drag and drop.",
@@ -1516,8 +1426,7 @@
         "Tests Included",
         "No jQuery"
       ]
-    },
-    {
+    }, {
       "name": "5by.com - Your Video Concierge",
       "thumb": "5by/thumb.png",
       "desc": "5by helps you decide on what to watch by recommending you videos based on mood, time of day, location and what you like.",
@@ -1534,8 +1443,7 @@
         "HTML5",
         "Django"
       ]
-    },
-    {
+    }, {
       "name": "SongPane Setlist Manager",
       "thumb": "SongPane/thumb.png",
       "desc": "Combine songs from your repertoire to form set lists for worship services, concerts or practice sessions.",
@@ -1554,8 +1462,7 @@
         "Demo",
         "CRUD"
       ]
-    },
-    {
+    }, {
       "name": "corabbit",
       "thumb": "corabbit/thumb.png",
       "desc": "Collaboration focused media, document, and general file sharing service.",
@@ -1578,8 +1485,7 @@
         "Cloud",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "Paragrabbr",
       "thumb": "paragrabbr/thumb.jpg",
       "desc": "A lorem ipsum tool for coders. Helps you prototype paragraph content with contols and randomization for various inline (phrasing) elements and punctuation.",
@@ -1590,8 +1496,7 @@
         "Design",
         "Prototyping"
       ]
-    },
-    {
+    }, {
       "name": "meomap",
       "thumb": "meomap/thumb.png",
       "desc": "Meomap is a solomo (social-location-mobile) app, allows you to bookmark and share your places, search for local services and events.",
@@ -1605,8 +1510,7 @@
         "Local service",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Kangaroom",
       "thumb": "kangaroom/thumb.png",
       "desc": "Kangaroom is a search engine for flatshares and rooms to rent in the UK providing an easy-to-use interface that works across phones, tablets and computers.",
@@ -1623,8 +1527,7 @@
         "Mobile",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Zaptravel",
       "thumb": "zaptravel/thumb.png",
       "desc": "Zaptravel connects you to great inspiring travel deals based on what you want to experience.",
@@ -1633,8 +1536,8 @@
       "submitter": "nicmarti",
       "submissionDate": "2013-04-12",
       "tags": [
-        "Production", 
-        "Travel", 
+        "Production",
+        "Travel",
         "jQuery",
         "CSS3",
         "PlayFramework",
@@ -1644,8 +1547,7 @@
         "Responsive",
         "HTML5"
       ]
-    },
-    {
+    }, {
       "name": "App Catalog",
       "thumb": "appcatalog/thumb.png",
       "desc": "App Catalog is a self service Cloud based Mobile App and Device Management service for iOS and Android. Manage your iPhone, iPad, iPad mini, Nexus, Galaxy, Xoom, HTC and other android devices.",
@@ -1665,8 +1567,7 @@
         "AngularJS",
         ".NET"
       ]
-    },
-    {
+    }, {
       "name": "Dailybreak",
       "thumb": "dailybreak/thumb.jpg",
       "desc": "Mobile application built on Angular JS inside of Cordova - using SQL lite, CSS transitions and local storage",
@@ -1682,8 +1583,7 @@
         "Web Sockets",
         "Mobile"
       ]
-    },
-    {
+    }, {
       "name": "Musik365",
       "thumb": "musik365/thumb.jpg",
       "desc": "Musik365 is free, one click radio that plays music you'll love. Discover new music and enjoy old favorites. Professional DJs created the playlists so you just relax and enjoy the music.",
@@ -1696,8 +1596,7 @@
         "online radio",
         "internet radio"
       ]
-    },
-    {
+    }, {
       "name": "Sendmachine",
       "thumb": "sendmachine/thumb.png",
       "desc": "Sendmachine is an email marketing tool that enables clients to send high-volume email campaigns and transactional emails. The admin interface is built with AngularJS.",
@@ -1714,8 +1613,7 @@
         "Bootstrap",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "OpenDataSoft Explore",
       "thumb": "opendatasoft/thumb.png",
       "desc": "Explore a catalog of Open Data datasets and visualize them interactively in context.",
@@ -1729,25 +1627,23 @@
         "CSS3",
         "jQuery"
       ]
-    },
-    {
-      "name": "Node Tetrinet",  
-      "thumb": "nodetetrinet/thumb.png", 
-      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io", 
-      "url": "http://net.lo2k.net", 
-      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/", 
-      "src": "https://github.com/xblaster/NodeTetrinet", 
+    }, {
+      "name": "Node Tetrinet",
+      "thumb": "nodetetrinet/thumb.png",
+      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io",
+      "url": "http://net.lo2k.net",
+      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/",
+      "src": "https://github.com/xblaster/NodeTetrinet",
       "submitter": "X-Blaster",
       "submissionDate": "2013-04-24",
       "tags": [
-      "Demo", 
-      "Game", 
-      "CSS3D", "WebSocket", 
-      "jQuery",
-      "Open Source"
+        "Demo",
+        "Game",
+        "CSS3D", "WebSocket",
+        "jQuery",
+        "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "VerticalChange",
       "thumb": "verticalchange/thumb.png",
       "desc": "Modern Case Management Software (SurveyMonkey meets Highrise for Case Managers)",
@@ -1763,8 +1659,7 @@
         "CRM",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "NewlyWish",
       "thumb": "newlywish/thumb.png",
       "desc": "NewlyWish is a simple and managed registry experience for the modern couple.",
@@ -1779,8 +1674,7 @@
         "Rails",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Smoothie",
       "thumb": "smoothie/thumb.png",
       "desc": "Play music as your mood goes",
@@ -1798,8 +1692,7 @@
         "CSS3",
         "Bootstrap"
       ]
-    },
-    {
+    }, {
       "name": "WorkHourGlass",
       "thumb": "workhourglass/thumb.png",
       "desc": "A productivity tool to see how many work hours are left for you to be productive today, this week, month and year.",
@@ -1811,10 +1704,9 @@
         "Productivity",
         "Bootstrap", "Local Storage",
         "jQuery",
-        "Time Management","Planning"
+        "Time Management", "Planning"
       ]
-    },
-    {
+    }, {
       "name": "Confr",
       "thumb": "confr/thumb.png",
       "desc": "The world's most simple and easy to use conference tool. Sign up and invite to your first conference within seconds.",
@@ -1834,8 +1726,7 @@
         "Local Storage",
         "RESTful"
       ]
-    },
-    {
+    }, {
       "name": "Mealshaker",
       "thumb": "mealshaker/thumb.png",
       "desc": "The app you can shake to find a place to eat. Shake your device and get the place where you should go.",
@@ -1855,8 +1746,7 @@
         "Geolocation API",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "Wamba Dating Service",
       "thumb": "m.wamba.com/thumb.png",
       "desc": "Mobile-oriented version of big dating service.",
@@ -1870,8 +1760,7 @@
         "No jQuery",
         "Dating"
       ]
-    },
-    {
+    }, {
       "name": "HTML5 Ninja",
       "thumb": "html5-ninja/thumb.png",
       "desc": "html5-ninja.com is a marketplace where authors & designers propose their creations (themes, scripts... ) for selling.",
@@ -1885,8 +1774,7 @@
         "HTML5", "CSS3", "Bitcoin",
         "No jQuery"
       ]
-    },
-    {
+    }, {
       "name": "AffableBean",
       "thumb": "affablebean/thumb.png",
       "desc": "E-commerce sample application based on 'The NetBeans E-commerce Tutorial'",
@@ -1905,8 +1793,7 @@
         "HTML5",
         "CSS3"
       ]
-    },
-    {
+    }, {
       "name": "OverTask",
       "thumb": "overtask/thumb.png",
       "desc": "OverTask is a Chrome New Tab Page extension that automatically organizes your online information based on the task you are working on.",
@@ -1915,16 +1802,15 @@
       "submitter": "TheAncientGoat",
       "submissionDate": "2014-03-09",
       "tags": [
-	"Production",
+        "Production",
         "Productivity",
-	"Local Storage","IndexDB",
-	"No jQuery",
+        "Local Storage", "IndexDB",
+        "No jQuery",
         "Chrome",
         "Extension",
         "To-Do"
       ]
-    },
-    {
+    }, {
       "name": "Configure your own MINI.",
       "thumb": "mini-configurator/thumb.png",
       "desc": "Design and customise a MINI to make it your own. Choose from the entire MINI range.",
@@ -1939,8 +1825,7 @@
         "AngularJS",
         "SASS"
       ]
-    },
-    {
+    }, {
       "name": "Crunchinator",
       "thumb": "crunchinator/thumb.png",
       "desc": "Interactively slice, filter and research Crunchbase data.",
@@ -1958,8 +1843,7 @@
         "Startups",
         "Investors"
       ]
-    },
-    {
+    }, {
       "name": "TripInView",
       "thumb": "tripinview/thumb.png",
       "desc": "Tripinview is a next generation platform for visually discovering authentic destinations and unique traveling ideas.",
@@ -1977,8 +1861,7 @@
         "Travel",
         "Booking"
       ]
-    },
-    {
+    }, {
       "name": "MSNBC.com",
       "thumb": "msnbc/thumb.png",
       "desc": "The shows you love, issues that matter: Rachel Maddow, Lawrence O&#039;Donnell, Chris Hayes, Chris Matthews, Al Sharpton, Ed Schultz, Joe Scarborough.",
@@ -1991,8 +1874,7 @@
         "TV",
         "Video"
       ]
-    },
-    {
+    }, {
       "name": "Oppia",
       "thumb": "oppia/thumb.png",
       "desc": "Create interactive educational activities that allow others to learn by doing.",
@@ -2012,8 +1894,7 @@
         "Tests Included",
         "Python", "Google App Engine"
       ]
-    },
-    {
+    }, {
       "name": "Neobazaar",
       "thumb": "neobazaar/thumb.png",
       "desc": "Neobazaar free classifieds",
@@ -2032,8 +1913,7 @@
         "Open Source",
         "italian"
       ]
-    },
-    {
+    }, {
       "name": "ga.me",
       "thumb": "ga.me/thumb.png",
       "desc": "Not your usual webgames - ga.me is an HTML5-powered games console where you can play high quality games with your friends on desktop, tablet and mobile!",
@@ -2042,15 +1922,14 @@
       "submitter": "joekilner",
       "submissionDate": "2014-03-31",
       "tags": [
-          "Production",
-          "Games", "Social",
-          "LESS", "Animations", "WebGL", "Audio", "WebSocket", "CSS3",
-          "No jQuery",
-          "Responsive",
-          "iOS"
+        "Production",
+        "Games", "Social",
+        "LESS", "Animations", "WebGL", "Audio", "WebSocket", "CSS3",
+        "No jQuery",
+        "Responsive",
+        "iOS"
       ]
-    },
-    {
+    }, {
       "name": "Matigeni",
       "thumb": "matigeni/thumb.png",
       "desc": "A simple game to guess the name of a specific location on earth. This was developed for NASA SpaceApps Challenge 2014",
@@ -2070,8 +1949,7 @@
         "jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "Cities in motion 2014",
       "thumb": "cities-in-motion/cim.jpg",
       "desc": "World Map with a comparative about quality life in 135 different cities. It also shows two type of fancy graphs. This project belongs to IESE.",
@@ -2088,8 +1966,7 @@
         "HTML5",
         "World Information"
       ]
-    },
-    {
+    }, {
       "name": "Lamborghini Huracán",
       "thumb": "huracan/thumb.jpg",
       "desc": "The new Lamborghini Huracán's minisite allows you to live the car online through an original web series, a sound experience and a rich media gallery.",
@@ -2104,8 +1981,7 @@
         "CSS3",
         "No jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Boticca",
       "thumb": "boticca/thumb.png",
       "desc": "Explore a personalised kaleidoscope of unique designs from around the world.",
@@ -2125,8 +2001,7 @@
         "E-Commerce",
         "Moible"
       ]
-    },
-    {
+    }, {
       "name": "Octopus Deploy",
       "thumb": "octopusdeploy/thumb.png",
       "desc": "Octopus Deploy is a friendly deployment automation system for .NET developers.",
@@ -2141,8 +2016,7 @@
         "Bootstrap",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Symple Video Chat",
       "thumb": "sourcey/thumb.png",
       "desc": "Symple video chat is an open source live video chat and real-time messaging demonstration using AngularJS, WebRTC and Symple.",
@@ -2159,8 +2033,7 @@
         "Messaging",
         "Demo"
       ]
-    },
-    {
+    }, {
       "name": "EddyTools - Assessment System",
       "thumb": "eddytools-assessment-system/thumb.png",
       "desc": "Offline Assessment system for mobile and web application",
@@ -2174,8 +2047,7 @@
         "Moodle",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "SSC Geomarker Tool",
       "thumb": "ssc/thumb.png",
       "desc": "Interactive helper tool for generating list of geo coordinate and naming the place for easy copy to your data input.",
@@ -2190,8 +2062,7 @@
         "jQuery",
         "Bootstrap"
       ]
-    },
-    {
+    }, {
       "name": "Angular Music Player",
       "thumb": "angular-audio-player/thumb.png",
       "desc": "Websocket synchronized audio player hooked up to SoundCloud, and any optional personal music servers",
@@ -2207,8 +2078,7 @@
         "Websockets",
         "No jQuery"
       ]
-    },
-    {
+    }, {
       "name": "DiscoverWiki",
       "thumb": "discoverwiki/thumb.png",
       "desc": "Site to help bring the wealth of information on Wikipedia to users by abstracting small snippets, making it easier to identify and share interesting content.",
@@ -2224,8 +2094,7 @@
         "jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "widelinky.com",
       "thumb": "widelinky.com/thumb.png",
       "desc": "New Generation of Personal Startpage and Online Link Management. You can visit any site by one click. WYSIWYG edit and theme",
@@ -2240,8 +2109,7 @@
         "Productivity",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "CardForest",
       "thumb": "cardforest/thumb.png",
       "desc": "Explore, play and define card games",
@@ -2257,8 +2125,7 @@
         "Animations",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Deadbolt Password Generator",
       "thumb": "deadbolt-password-generator/thumb.png",
       "desc": "A chrome extension that generates strong passwords based on memorable phrases. No secure information is ever transmitted or stored.",
@@ -2274,8 +2141,7 @@
         "No jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "Reme.IO",
       "thumb": "remeio/thumb.png",
       "desc": "Create email reminders in seconds",
@@ -2290,8 +2156,7 @@
         "Local Storage",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Zoggle",
       "thumb": "zoggle/thumb.png",
       "desc": "Zoggle, the ultimate word game!",
@@ -2309,8 +2174,7 @@
         "jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "Dematerializer",
       "thumb": "dematerializer/thumb.png",
       "desc": "Dematerializer provides a blogging platform for developers.",
@@ -2327,8 +2191,7 @@
         "jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "RegexWorks",
       "thumb": "regexworks/thumb.png",
       "desc": "A regular expression testing sandbox. Get live feedback running any number of matching or replacing regexes on custom lines of input.",
@@ -2346,8 +2209,7 @@
         "Regular Expressions",
         "Regex"
       ]
-    },
-    {
+    }, {
       "name": "Dynofy",
       "thumb": "dynofy/thumb.png",
       "desc": "Website and Server Monitoring App. Also present on Play Store. Login with email demo@dynofy.com and password dynofy",
@@ -2361,8 +2223,7 @@
         "Website Downtime Monitoring",
         "Downtime Notification Android App"
       ]
-    },
-    {
+    }, {
       "name": "Room 77",
       "thumb": "room77/thumb.png",
       "desc": "Hotel deal finder for 200k+ hotels built with a responsive design for mobile, tablet and desktop.",
@@ -2378,8 +2239,7 @@
         "Leaftlet",
         "CSS3"
       ]
-    },
-    {
+    }, {
       "name": "Educando",
       "thumb": "educando/thumb.png",
       "desc": "Educando is an online school management platform that allows you to simplify everyday tasks and easily share information between students, teachers and parents.",
@@ -2394,8 +2254,7 @@
         "School Management",
         "Planning"
       ]
-    },
-    {
+    }, {
       "name": "FoldNFly",
       "thumb": "foldnfly/thumb.png",
       "desc": "A database of paper airplanes with easy to follow folding instructions.",
@@ -2407,10 +2266,9 @@
         "Instructional", "Fun",
         "Bootstrap", "Local Storage",
         "jQuery",
-        "Paper Airplanes","Origami"
+        "Paper Airplanes", "Origami"
       ]
-    },
-    {
+    }, {
       "name": "Flat TODO App",
       "thumb": "flat-todo-app/thumb.png",
       "desc": "A simple TODO List application with a beautiful flat design.",
@@ -2427,8 +2285,7 @@
         "No jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "directiveMaker",
       "thumb": "directiveMaker/thumb.png",
       "desc": "angularJs directive templates maker. Aimed for learning and jump starting directive development with templates",
@@ -2443,8 +2300,7 @@
         "Developers",
         "No jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Holly",
       "thumb": "holly/thumb.png",
       "desc": "To-do lists for nerds.",
@@ -2462,8 +2318,7 @@
         "Ruby on Rails",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "FileKeeper",
       "thumb": "filekeeper/thumb.png",
       "desc": "FileKeeper is a cheap, no-nonsense cloud backup system.",
@@ -2476,8 +2331,7 @@
         "Utilities",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "hike.io",
       "thumb": "hikeio/thumb.png",
       "desc": "The best place to find beautiful hikes online. Hike.io is free, open source, and anyone can make an edit.",
@@ -2491,8 +2345,7 @@
         "Open Source",
         "Web Sockets"
       ]
-    },
-    {
+    }, {
       "name": "Doz",
       "thumb": "doz/thumb.png",
       "desc": "DOZ platform provides unique content marketing with the best webmarketing experts.",
@@ -2508,8 +2361,7 @@
         "PHP",
         "Responsive"
       ]
-    },
-    {
+    }, {
       "name": "Gameclipse",
       "thumb": "gameclipse/thumb.png",
       "desc": "Gameclipse is a platform for you to save your favorite gaming videos into playlists and share them with friends. YouTube content creators can promote their gaming videos and receive support from their fans.",
@@ -2528,8 +2380,7 @@
         "No jQuery",
         "Node"
       ]
-    },
-    {
+    }, {
       "name": "PSO Trieste Maps",
       "thumb": "pso-trieste/thumb.png",
       "desc": "Urban regeneration project in Trieste (Italy)",
@@ -2543,8 +2394,7 @@
         "EaselJS",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "PieChopper",
       "thumb": "piechopper/thumb.png",
       "desc": "PieChopper assists startup teams to divide their founders' pie fairly.",
@@ -2562,8 +2412,7 @@
         "Open Source",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "Worktile",
       "thumb": "Worktile/thumb.png",
       "desc": "Worktile is a simple and powerful team collaboration tools to solve efficiency, communication, sharing and recording problems. Work with your colleagues anytime and anywhere.",
@@ -2586,8 +2435,7 @@
         "Bootstrap",
         "Node.js"
       ]
-    },
-    {
+    }, {
       "name": "Australia Post mobile website",
       "thumb": "australia-post/thumb.png",
       "desc": "Mobile version of the Australia Post website. Example of integrating web applications, forms and content with a CMS using AngularJS",
@@ -2607,8 +2455,7 @@
         "Tests Included",
         "Bootstrap"
       ]
-    },
-    {
+    }, {
       "name": "rot13.io",
       "thumb": "rot13.io/thumb.png",
       "desc": "Apply the rot13 letter substitution cipher (\"Caesar cipher\") to some text.",
@@ -2622,8 +2469,7 @@
         "No jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "Angular Music Database",
       "thumb": "music-db/thumb.png",
       "desc": "Angular Music Database is a demo showcasing CRUD.Create,update and delete artists,albums,and tracks.",
@@ -2645,8 +2491,7 @@
         "Open Source",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "Gallery Manager",
       "thumb": "gallery/thumb.png",
       "desc": "Gallery Manager is a demo showcasing CRUD.Create,update and delete pictures and collections.",
@@ -2666,8 +2511,7 @@
         "jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "Thoughtcast Snippet Manager",
       "thumb": "thoughtcast-snippet-manager/thumb.png",
       "desc": "Thoughtcast Snippet Manager is a web app for easily managing your code snippets and get instant access to them across the web anywhere,anytime. Register for FREE",
@@ -2683,8 +2527,7 @@
         "No jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "AngularJS + Cloud Endpoint",
       "thumb": "angular-appengine-seed/thumb.png",
       "desc": "Sample application for using AngularJS backed with a Cloud Endpoint on the Google App Engine.",
@@ -2704,8 +2547,7 @@
         "Open Source",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "Cloudtub",
       "thumb": "Cloudtub/thumb.png",
       "desc": "Cloud storage web app built on Laravel, MongoDB and AngularJS. Try it with username demo@cloudtub.com and password demouser",
@@ -2721,8 +2563,7 @@
         "Bootstrap",
         "AngularJS"
       ]
-    },
-    {
+    }, {
       "name": "Taverdon.com",
       "thumb": "taverdon/thumb.png",
       "desc": "Taverdon.com is a small One-Page App used to introduce myself to the world",
@@ -2738,8 +2579,7 @@
         "jQuery",
         "Bootstrap"
       ]
-    },
-    {
+    }, {
       "name": "Mallzee",
       "thumb": "mallzee/thumb.png",
       "desc": "Welcome to Mallzee, the personal shopper in your pocket. Searching over 2 million products from 200 big name fashion retailers, Mallzee finds clothes suited just to you. Shop ASOS, Urban Outfitters, Forever 21 and more, sharing your fashion finds with friends before you buy!",
@@ -2759,8 +2599,7 @@
         "UI Router",
         "Phonegap"
       ]
-    },
-    {
+    }, {
       "name": "Sky Store",
       "thumb": "skystore/thumb.png",
       "desc": "A TVOD web site, the site is built top to bottom with Angular and RequireJS",
@@ -2781,8 +2620,7 @@
         "greensock",
         "No jQuery"
       ]
-    },
-    {
+    }, {
       "name": "illico.tv",
       "thumb": "illico_tv/thumb.png",
       "desc": "Experience the best of Online TV and watch movies, series, TV channels and more on illico.tv, the web TV with the widest variety of content.",
@@ -2803,8 +2641,7 @@
         "jQuery",
         "Videotron"
       ]
-    },
-    {
+    }, {
       "name": "PAC2 Statistics",
       "thumb": "pac2/thumb.png",
       "desc": "Dashboard about the biggest brazilian program of investiment in infrastructure.  ( pt-only )",
@@ -2824,8 +2661,7 @@
         "D3js",
         "Mobile"
       ]
-    },
-    {
+    }, {
       "name": "Rodereisen",
       "thumb": "rodereisen/thumb.png",
       "desc": "Rodereisen is a travel agency. The company is using Google+ as their primary content management system, so the app shows their G+ timeline and tries to build a strong connection between visitors and the team members.",
@@ -2844,8 +2680,7 @@
         "Responsive",
         "HTML5"
       ]
-    },
-    {
+    }, {
       "name": "Kickdex",
       "thumb": "kickdex/thumb.png",
       "desc": "We define sports performance. Kickdex tells you how well players and teams are performing. In real time.",
@@ -2866,8 +2701,7 @@
         "Web sockets",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "TrendyCams",
       "thumb": "trendycams/thumb.png",
       "desc": "Compare digital cameras, view samples, get deals.",
@@ -2883,8 +2717,7 @@
         "Amazon API",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "TaskTub",
       "thumb": "tasktub/thumb.png",
       "desc": "TaskTub is a kanban and agile project management tool for GitHub issues",
@@ -2900,8 +2733,7 @@
         "API",
         "MongoDB"
       ]
-    },
-    {
+    }, {
       "name": "MyResumeJS",
       "thumb": "myresumejs/thumb.png",
       "desc": "Resume of Nicolas Huguet built with MyResumeJS Template.",
@@ -2919,8 +2751,7 @@
         "jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "seevl.fm",
       "thumb": "seevl/thumb.png",
       "desc": "Free and unlimited music discovery powered by the Open Web",
@@ -2939,8 +2770,7 @@
         "HTML5",
         "CSS3"
       ]
-    },
-    {
+    }, {
       "name": "Renovat'd",
       "thumb": "renovatd/thumb.png",
       "desc": "Renovat'd helps homeowners find solutions, design ideas, and professionals for their home.",
@@ -2958,8 +2788,7 @@
         "Real Estate",
         "Home Improvement"
       ]
-    },
-    {
+    }, {
       "name": "Advanced rest client for Android",
       "thumb": "restclient/thumb.png",
       "desc": "Advanced REST Client for Android is a development tool used to test RESTful web services.",
@@ -2977,8 +2806,7 @@
         "Utility",
         "Simulate"
       ]
-    },
-    {
+    }, {
       "name": "Wanderlust",
       "thumb": "wanderlust/thumb.png",
       "desc": "Trip Planner",
@@ -2995,8 +2823,7 @@
         "No jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "My Color Palettes",
       "thumb": "mycolorpalettes/thumb.png",
       "desc": "A simple template for saving and managing your color palettes. Under the hood this is a simple AngularJS app, but no knowledge of Angular is required - only some basic work with JSON.",
@@ -3012,8 +2839,7 @@
         "No jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "Quofucius",
       "thumb": "quofucius/thumb.png",
       "desc": "Discover, manage and share your favorite quotations",
@@ -3028,8 +2854,7 @@
         "Bootstrap",
         "Angular UI"
       ]
-    },
-    {
+    }, {
       "name": "Interalia.net",
       "thumb": "interalia/thumb.png",
       "desc": "Mexican Agency Online Advertising and Marketing, specializing in internet marketing campaigns.",
@@ -3048,8 +2873,7 @@
         "Phantomjs",
         "Selenium"
       ]
-    },
-    {
+    }, {
       "name": "Hatch",
       "thumb": "Hatch/thumb.png",
       "desc": "Hatch was created to enable anyone to transform a product they like, whether jewelry, a piece of home decor, or a gift for a special someone, into a product they love. Custom e-commerce, done right.",
@@ -3065,8 +2889,7 @@
         "Local Storage",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Behrisbaf",
       "thumb": "behrisbaf/thumb.png",
       "desc": "Textile Machine Spare Parts Supplier: One-Stop Shop",
@@ -3081,8 +2904,7 @@
         "Bootstrap",
         "CSS3"
       ]
-    },
-    {
+    }, {
       "name": "Oregon Gridiron",
       "thumb": "oregongridiron/thumb.png",
       "desc": "An interactive experience showcasing all the University of Oregon has to offer prospective recruits.",
@@ -3096,8 +2918,7 @@
         "Animations",
         "No jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Loggi",
       "thumb": "loggi/thumb.png",
       "desc": "Urban logistics",
@@ -3116,8 +2937,7 @@
         "Compass",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Base64 Image",
       "thumb": "base64-image/thumb.png",
       "desc": "Encode image to base64 string",
@@ -3134,8 +2954,7 @@
         "Tools",
         "NodeJS"
       ]
-    },
-    {
+    }, {
       "name": "Timelify",
       "thumb": "timelify/thumb.png",
       "desc": "Timelify lets parents create timelines for their children. I call it a memory book.",
@@ -3150,8 +2969,7 @@
         "No jQuery",
         "Play! Framework"
       ]
-    },
-    {
+    }, {
       "name": "Bit.gg",
       "thumb": "bitgg/thumb.png",
       "desc": "Service to bet Bitcoins on your favorite eSports events. Built with AngularJS, NodeJS and Socket.IO; using Bootstrap and CSS Transitions",
@@ -3168,8 +2986,7 @@
         "Bitcoins",
         "Startup"
       ]
-    },
-    {
+    }, {
       "name": "Cards for Humanity",
       "thumb": "cardsforhumanity/thumb.png",
       "desc": "Cards for Humanity is a fast-paced online version of the popular card game, Cards Against Humanity, that gives you the opportunity to donate to children in need - all while remaining as despicable and awkward as you naturally are.",
@@ -3187,8 +3004,7 @@
         "Open Source",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "FirePoker.io",
       "thumb": "firepoker/thumb.png",
       "desc": "Agile planning poker app helps you estimating user stories in software development.",
@@ -3202,8 +3018,7 @@
         "Planning Poker",
         "Agile"
       ]
-    },
-    {
+    }, {
       "name": "Isabel the chatolic characters tree",
       "thumb": "isabel/thumb.png",
       "desc": "An interactive visualization for the spanish television series 'Isabel' based on the historical character Isabella I of Castile.",
@@ -3218,8 +3033,7 @@
         "Raphael",
         "SVG"
       ]
-    },
-    {
+    }, {
       "name": "FrameFish",
       "thumb": "framefish/thumb.png",
       "desc": "Try glasses on your own face. Filter hundreds of styles to see what suits you best.",
@@ -3237,8 +3051,7 @@
         "Social-Commerce",
         "Angular UI"
       ]
-    },
-    {
+    }, {
       "name": "Click Or Treat",
       "thumb": "clickortreat/thumb.png",
       "desc": "Trick or Treat is a little halloween themed game built with AngularJS. Help the little ghost haunt everyone in the world. As you progress, swap some of your hauntings for upgrades that will help you haunt more quickly.",
@@ -3255,8 +3068,7 @@
         "Ghosts",
         "Bootstrap"
       ]
-    },
-    {
+    }, {
       "name": "RingMD",
       "thumb": "ringmd/thumb.png",
       "desc": "Make faster and confident decisions for better health",
@@ -3270,8 +3082,7 @@
         "Patient",
         "Health Care"
       ]
-    },
-    {
+    }, {
       "name": "redbysfr.re",
       "thumb": "redbysfr-re/thumb.png",
       "desc": "redbysfr.re is a subscription and customer care web site for low cost mobile plans in Réunion Island - France",
@@ -3287,8 +3098,7 @@
         "RESTful",
         "Node.js"
       ]
-    },
-    {
+    }, {
       "name": "FormCraft",
       "thumb": "formcraft/thumb.png",
       "desc": "FormCraft is a drag-and-drop builder for making responsive ajax forms. It also features an admin panel for managing forms, submissions and file uploads.",
@@ -3303,8 +3113,7 @@
         "Tools",
         "Bootstrap"
       ]
-    },
-    {
+    }, {
       "name": "WatchMeLater.net",
       "thumb": "watchmelater.net/thumb.png",
       "desc": "Simplest Video Bookmarking service out there.",
@@ -3319,8 +3128,7 @@
         "Bootstrap",
         "Rails"
       ]
-    },
-    {
+    }, {
       "name": "Jukenetbox",
       "thumb": "jukenetbox/thumb.png",
       "desc": "JUKENETBOX is the first global application designed for those who are passionate about music and who value the freedom to decide, listen to and share the music ambient in their favourite hangouts, bars, restaurants, clubs, hotels or other premises, just through a Smartphone.",
@@ -3337,8 +3145,7 @@
         "Google Maps",
         "No jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Coevery",
       "thumb": "coevery/thumb.png",
       "desc": "Coevery is a free, open source web framework for developing data-centric business applications without writing any code.",
@@ -3360,8 +3167,7 @@
         "Bootstrap",
         "Mobile"
       ]
-    },
-    {
+    }, {
       "name": "betrend",
       "thumb": "betrend/thumb.png",
       "desc": "A fashion portal with everything you need to knwo about fashion, daily updated. In Portuguese.",
@@ -3370,14 +3176,13 @@
       "submitter": "miguelcma",
       "submissionDate": "2013-09-20",
       "tags": [
-      "Django",
-      "Python",
+        "Django",
+        "Python",
         "Production",
         "Fashion",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "PunchPlay",
       "thumb": "punchplay/thumb.png",
       "desc": "An audio platform with playlists created by music artists.",
@@ -3394,8 +3199,7 @@
         "Free Music",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "CVsIntellect",
       "thumb": "cvsintellect/thumb.jpg",
       "desc": "CVsIntellect is a LaTeX based free resume maker. It also allows users to configure their resume like fonts, margins, and colors. We also support varities of templates.",
@@ -3409,16 +3213,15 @@
         "Tools",
         "Employment"
       ]
-    },
-    {
+    }, {
       "name": "Bootstrap 3 Grid Builder",
       "thumb": "bootstrap-grid-builder/thumb.png",
       "desc": "BootStrap is a single page web app to create new Boostrap 3 Layouts easily using previews on all devices to make responsive websites",
       "url": "http://jaykanakiya.com/bootstrap-grid-builder/",
       "info": "https://github.com/kanakiyajay/bootstrap-grid-builder",
       "submitter": "Jay Kanakiya",
-      "submissionDate" : "2013-09-04",
-      "tags" : [
+      "submissionDate": "2013-09-04",
+      "tags": [
         "Production",
         "Productivity",
         "jQuery",
@@ -3429,8 +3232,7 @@
         "UI Bootstrap",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "appear.in",
       "thumb": "appear.in/thumb.png",
       "desc": "Set up a video meeting using WebRTC in your browser with anyone - no downloads, no account registration.",
@@ -3445,8 +3247,7 @@
         "No Registration",
         "Node.js"
       ]
-    },
-    {
+    }, {
       "name": "Spectator",
       "thumb": "spectator/thumb.png",
       "desc": "Express your BDD examples in a clear and concise view. Spectator converts them to Jasmine syntax automatically.",
@@ -3463,8 +3264,7 @@
         "Open Source",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "Graphical Query Builder",
       "thumb": "graphical-query-builder/thumb.png",
       "desc": "Graphical Query Builder for trails, a purely functional graph traversal language.",
@@ -3483,8 +3283,7 @@
         "Open Source",
         "Tests Included"
       ]
-    },
-    {
+    }, {
       "name": "Fabien Zibi",
       "thumb": "fabienzibi/thumb.png",
       "desc": "Personal Website",
@@ -3496,8 +3295,7 @@
         "Animations",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Nearbox",
       "thumb": "nearbox/thumb.png",
       "desc": "Nearbox is a fun and easy way to connect with new people & places. In Nearbox each place is a geolocated group that everyone can join and chat with other people.",
@@ -3510,8 +3308,7 @@
         "Animation",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "LookAround",
       "thumb": "lookaround/thumb.png",
       "desc": "AngularJS App for searching places (ATM,HOTEL..etc) using Google Maps + Google Places API",
@@ -3531,8 +3328,7 @@
         "No jQuery",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "Angular Invoicing",
       "thumb": "angular-invoicing/thumb.png",
       "desc": "Use this extremely small and lightweight project built in Angular JS to build your one off Invoices. No monthly fees, No Subscriptions - No heavy duty features, Just simple invoices. We are using Angular JS, Bootstrap 3, and jQuery.",
@@ -3549,8 +3345,7 @@
         "Bootstrap",
         "Open Source"
       ]
-    },
-    {
+    }, {
       "name": "Kinetoscope",
       "thumb": "kinetoscope/thumb.png",
       "desc": "Kinetoscope lets you discover all upcoming movies, know more information more about movies that you have already seen or just search for a good movie to see.",
@@ -3564,8 +3359,7 @@
         "Animations",
         "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "PHPRegex",
       "thumb": "phpregex/thumb.png",
       "desc": "PHPRegex is a small utility to test regular expression using PHP's built in regular expression matching function.",
@@ -3580,8 +3374,7 @@
         "No jQuery",
         "Bootstrap"
       ]
-    },
-    {
+    }, {
       "name": "The Weather Channel",
       "thumb": "weather.com/thumb.png",
       "desc": "The Weather Channel and weather.com provide a national and local weather forecast for cities, as well as weather radar, report and hurricane coverage.",
@@ -3602,8 +3395,7 @@
         "local weather",
         "local weather forecast"
       ]
-    },
-    {
+    }, {
       "name": "BeaverCoin Wheel",
       "thumb": "beavercoin-wheel/thumb.png",
       "desc": "In the BeaverCoin Wheel each user has the opportunity to win a few BeaverCoins. The spinning is completely free, and can be done once per visitor per hour.",
@@ -3625,8 +3417,7 @@
         "Socket.io",
         "Jade"
       ]
-    },
-    {
+    }, {
       "name": "Cricket World Cup 2015 Schedule",
       "thumb": "worldcup2015/thumb.png",
       "desc": "An interactive cricket world cup 2015 schedule viewer that works well on desktop, tablets and smartphones.",
@@ -3647,8 +3438,7 @@
         "Static",
         "Responsive"
       ]
-    },
-    {
+    }, {
       "name": "DealMarket",
       "thumb": "dealmarket/thumb.png",
       "desc": "DealMarket is a global online platform enabling investors, fundraisers and advisors to maximize opportunities around the world. Our offering includes: 1.) DealMarket Marketplace, an unfiltered view of the global deal market, 2.) DealMarket Intelligence, an affordable access to third party data, research and services – customised to your needs, for immediate download, 3.) Deal Flow Management Tool, unique in its kind, with a comprehensive set of features allowing for secure collaboration, fast communication, and streamlined data processes.",
@@ -3668,8 +3458,7 @@
         "Responsive",
         "RESTful"
       ]
-    },
-    {
+    }, {
       "name": "Jamstreams.net",
       "thumb": "jamstreams/thumb.png",
       "desc": "Jamstreams.net is a collection of live recordings from the best jambands.",
@@ -3687,6 +3476,21 @@
         "MongoDB",
         "Responsive",
         "Cloud"
+      ]
+    }, {
+      "name": "Mercadoni",
+      "thumb": "mercadoni/thumb.png",
+      "desc": "On-demand grocery startup in Latin America.",
+      "url": "https://www.mercadoni.com.co/",
+      "info": "https://www.mercadoni.com.co/#!/ayuda",
+      "submitter": "burgosa",
+      "submissionDate": "2015-07-24",
+      "tags": [
+        "Ecommerce",
+        "Groceries",
+        "Bootstrap",
+        "MongoDB",
+        "Express"
       ]
     }
 
